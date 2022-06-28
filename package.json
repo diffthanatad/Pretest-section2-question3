@@ -1,0 +1,16 @@
+{
+  "name": "section2-question3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^15.1.1",
+    "puppeteer-table-parser": "^1.4.1"
+  }
+}
